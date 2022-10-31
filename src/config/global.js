@@ -205,8 +205,20 @@ export default {
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia: 'ConceptoDefinición. (s.f.). <em>Producción.</em>',
+      link: 'https://conceptodefinicion.de/produccion/',
+    },
+    {
+      referencia:
+        'Nueva ISO 9001:2015. (2015).<em> ISO 9001 en los procesos de producción. </em>',
+      link:
+        'https://www.nueva-iso-9001-2015.com/2015/05/iso-9001-procesos-produccion/',
+    },
+    {
+      referencia:
+        'Portafolio. (2022). <em>Productividad en 2021 fue de 0.64 %:</em> Dane. ',
+      link:
+        'https://www.portafolio.co/economia/gobierno/productividad-en-2021-fue-de-0-64-dane-562934',
     },
   ],
   creditos: {
