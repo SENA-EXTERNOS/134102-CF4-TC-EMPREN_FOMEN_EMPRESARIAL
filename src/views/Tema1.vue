@@ -15,7 +15,7 @@
         p.mb-5 Para comenzar, es necesario tener presente que, para la puesta en marcha de un proyecto productivo, se deben considerar las características, los suministros, la influencia de la tecnología en el desarrollo de la comercialización y valor en el mercado; igualmente, conocer las bases de los procesos que ejecutan los diferentes sectores productivos en la elaboración de los bienes y servicios, e identificar los diversos procedimientos a los cuales es sometida la materia prima para ser transformada, con el fin de elaborar un producto destinado para la venta o el consumo. 
 
     p.mb-5 Cada uno de los sectores productivos presenta un aporte a la productividad nacional. A continuación, conozca cada uno de los aportes:
-    TabsC.color-acento-contenido.mb-5
+    TabsC.color-acento-contenido.mb-5.fnd-17
       .py-4.py-md-5(titulo="Sectores que más aportaron a la productividad")
         .row
           .col-md-6.mb-4.mb-md-0
@@ -78,7 +78,7 @@
 
 
     p.mb-5 Después de conocer algunos de los sectores de producción y sus aportes, es conveniente hacer énfasis en los diferentes tipos de procesos productivos, teniendo en cuenta que no existe uno solo y, al haber varios, pueden interactuar entre ellos, para generar los llamados procesos mixtos.
-    p.mb-5 A continuación, se muestra la clasificación de los sectores económicos.
+    p.mb-5 Tipos de procesos productivos:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-md-5.mb-4.mb-md-0
@@ -136,7 +136,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8.mb-5
         figure
-          img(src='@/assets/curso/temas/tema1/img-9.svg')
+          img(src='@/assets/curso/temas/tema1/img-9-.svg')
     .row.justify-content-center.mb-5
       .col-lg-4
         .tarjeta.tarjeta-slide.arriba.color-secundario(@mouseover="indicadorTarjetaSlide = false")
@@ -184,12 +184,12 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10        
 
-        .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5
+        .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.fnd-in
           .bloque-texto-g__img(
             :style="{'background-image':`url(${require('@/assets/curso/temas/tema1/img-13.png')})`}"
           )
           .bloque-texto-g__texto.p-4.g5
-            p.mb-0 Es así como el proceso de producción requiere de una fase inicial de planificación; luego, viene la comercialización y, por último, la distribución. Por otro lado, se debe reconocer que el proceso productivo en la empresa no tiene que ver solo con el propio trabajo de creación o transformación, sino también con la eficiencia a la hora de optimizar los recursos. Además, dentro de la organización, se desarrolla el proceso productivo respetando tiempos y etapas necesarias para lograr la eficacia y la excelencia en los resultados.
+            p.mb-0 Es así como el proceso de producción requiere de una fase inicial de planificación; luego, viene la comercialización y, por último, la distribución. Por otro lado, se debe reconocer que el proceso productivo en la empresa no tiene que ver solo con el propio trabajo de creación o transformación, sino también con la eficiencia a la hora de optimizar los recursos.<br><br> Además, dentro de la organización, se desarrolla el proceso productivo respetando tiempos y etapas necesarias para lograr la eficacia y la excelencia en los resultados.
 
     p.mb-5 La creación de productos y sus respectivas áreas se reviste de gran importancia dado que es allí donde se concretan los procesos. A continuación, se definen algunas de estas: 
 
@@ -258,7 +258,7 @@
             figure
               img(src='@/assets/curso/temas/tema1/img-17.png')
           .col-md-8.mb-4.mb-md-0
-            p Durante esta época, las empresas que involucraban la calidad en sus procesos, lo hacían como un lujo, debido a que el cliente era quien asumía el costo de la mala calidad en los productos e incluso, los mercados eran demandados por el descuido de sus entregas finales al consumidor.
+            p Aunque la calidad en las empresas suponía un alto costo, muchas de estas empezaron a evidenciar sus ventajas en los procesos de producción.
 
         .row(titulo="Años 70")
           .col-md-4.mb-4.mb-md-0
@@ -460,14 +460,14 @@
         figure
           img.img-81(src='@/assets/curso/temas/tema1/img-32.svg')          
       .col-lg-7
-        p.mb-5 Cuando la fase de documentación finaliza, se realiza una auditoría interna, con el fin de comprobar el correcto funcionamiento del sistema. Luego, se obtiene una imagen clara como resultado, donde se evidencia la manera en la que, en la práctica. se ha implementado el sistema de calidad y su función.
+        p.mb-5 Cuando la fase de documentación finaliza, se realiza una auditoría interna, con el fin de comprobar el correcto funcionamiento del sistema. Luego, se obtiene una imagen clara como resultado, donde se evidencia la manera en la que, en la práctica. Se ha implementado el sistema de calidad y su función.
           br
           br
           | Una vez que se comprueba que el sistema de gestión de la calidad está funcionando y las auditorías iniciales del sistema se han ejecutado con éxito, será el momento de decidir si se desea certificar o no, este sistema de gestión de la calidad, y se debe comprobar la conformidad del producto en relación con las especificaciones de diseño del mismo, además de identificar las causas de la variabilidad, para establecer métodos de prevención y corrección, logrando que los productos fabricados respondan con las especificaciones del diseño. 
           
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
-        .bloque-texto-a.color-primario.p-4.p-md-5.mb-5.fnd-14 
+        .bloque-texto-a.color-primario.p-4.p-md-5.mb-5.fnd-1
           .row.m-0.align-items-center.justify-content-between
             .col-lg-4.mb-4.mb-lg-0
               h3.mb-0 Teniendo en cuenta lo anterior, con relación al sistema de gestión de calidad y su implementación, se exponen ahora las principales características del proceso productivo:
@@ -544,22 +544,22 @@
     p.mb-5 A continuación, se enfatizará en cuatro tendencias tecnológicas que revolucionaron el mundo de la producción industrial durante el año 2021:
 
     TabsC.color-acento-contenido.mb-5
-      .py-4.py-md-5(titulo="Automatización Robótica de Procesos – <em>Robotic Process Automation (RPA)</em>")
-        .row
+      .py-4.py-md-5.fnd-18(titulo="Automatización Robótica de Procesos – <em>Robotic Process Automation (RPA)</em>")
+        .row.px-3
           .col-md-8.mb-4.mb-md-0
-            p Esta tecnología, cada vez más transformadora, permite que cualquiera pueda configurar un software informático que haga posible que un “robot” emule e integre las acciones de una interacción humana en sistemas digitales, para ejecutar un proceso industrial o comercial.
-            p La RPA actúa como sistema disruptivo y sofisticado, que lleva el tradicional sistema ERP - Enterprise Resource Planning a otro nivel, dotándolo de machine learning para aprovechar al máximo la automatización que posibilita.
+            p Esta tecnología, cada vez más transformadora, permite que cualquiera pueda configurar un<em> software</em> informático que haga posible que un “robot” emule e integre las acciones de una interacción humana en sistemas digitales, para ejecutar un proceso industrial o comercial.
+            p La RPA actúa como sistema disruptivo y sofisticado, que lleva el tradicional sistema ERP -<em> Enterprise Resource Planning </em>a otro nivel, dotándolo de <em>machine learning </em>para aprovechar al máximo la automatización que posibilita.
             p La RPA, además, permite automatizar una fracción del costo y del tiempo que se invertía antes; esta tecnología no es de naturaleza intrusiva y saca partido a la infraestructura existente sin provocar interrupciones en los sistemas subyacentes, cuya sustitución sería muy compleja y costosa.
             p La RPA multiplica la eficiencia de cualquier proceso de alto volumen dirigido por reglas de negocio, porque se genera una lista de órdenes, la cual es ejecutada automáticamente por un robot de software, liberando a los empleados para que se concentren en tareas que aporten valor real a la empresa.
 
           .col-md-4.mb-4.mb-md-0
             figure
               img(src='@/assets/curso/temas/tema1/img-35.svg')  
-      .py-4.py-md-5(titulo="Computación en la nube distribuida")
-        .row
+      .py-4.py-md-5.fnd-18(titulo="Computación en la nube distribuida")
+        .row.px-3
           .col-md-8.mb-4.mb-md-0
 
-            p La nube distribuida es el futuro de la nube y la evolución del Cloud Computing. Es un concepto 'multinube' con una infraestructura geográficamente dispersa que, principalmente, ejecuta servicios en el borde de la web. Mientras que los servicios son distribuidos a diferentes ubicaciones físicas, su administración se da de forma centralizada y el funcionamiento, la gobernanza y la evolución, siguen siendo responsabilidad del proveedor de la nube pública.
+            p La nube distribuida es el futuro de la nube y la evolución del<em> Cloud Computing.</em> Es un concepto 'multinube' con una infraestructura geográficamente dispersa que, principalmente, ejecuta servicios en el borde de la web. Mientras que los servicios son distribuidos a diferentes ubicaciones físicas, su administración se da de forma centralizada y el funcionamiento, la gobernanza y la evolución, siguen siendo responsabilidad del proveedor de la nube pública.
             p Este tipo de nube representa la unión de varias nubes que combinan sus distintas capacidades; de esta manera, las empresas pueden recurrir a una combinación de ubicaciones y entornos de nube que mejor cumpla con sus requisitos de rendimiento, cumplimiento normativo y más.
             p La pandemia ha reforzado enormemente la necesidad para que los ecosistemas organizacionales puedan funcionar en remoto. La independencia de ubicación que ha generado, requiere un cambio tecnológico que pueda respaldar esta nueva versión de negocio.
             p La velocidad de estos cambios aún no permite la suficiente agilidad y funcionalidad, ni a nivel práctico ni a nivel de regulaciones legales.
@@ -570,8 +570,8 @@
           .col-md-4.mb-4.mb-md-0
             figure
               img(src='@/assets/curso/temas/tema1/img-36.svg')  
-      .py-4.py-md-5(titulo="Analítica aumentada")
-        .row
+      .py-4.py-md-5.fnd-18(titulo="Analítica aumentada")
+        .row.px-3
           .col-md-8.mb-4.mb-md-0
             p La analítica aumentada combina tecnologías de lenguaje natural y narrativo, preparación aumentada de datos, análisis avanzado automatizado y capacidades de descubrimiento de datos visuales para mejorar el flujo de trabajo.
             p Consiste en la idea de aprovechar tecnologías como el aprendizaje automático y el análisis para ayudar a automatizar todo el proceso de gestión de datos, desde la preparación de datos hasta la generación de conocimientos y la ayuda para la construcción de modelos y su puesta en funcionamiento.
@@ -580,10 +580,10 @@
           .col-md-4.mb-4.mb-md-0
             figure
               img(src='@/assets/curso/temas/tema1/img-37.svg')  
-      .py-4.py-md-5(titulo="Red 5G")
-        .row
+      .py-4.py-md-5.fnd-18(titulo="Red 5G")
+        .row.px-3
           .col-md-8.mb-4.mb-md-0
-            p La denominación de 5G se refiere a la quinta generación de redes móviles que conocemos. El avance más significativo tiene que ver con velocidad. El 5G permitirá navegar hasta a diez GBs (gigabytes por segundo), diez veces más rápido que las principales ofertas de fibra óptica del mercado.
+            p La denominación de 5G se refiere a la quinta generación de redes móviles que conocemos. El avance más significativo tiene que ver con velocidad. El 5G permitirá navegar hasta a diez GBs (<em>gigabytes</em> por segundo), diez veces más rápido que las principales ofertas de fibra óptica del mercado.
             p El otro avance tiene que ver con la latencia (el tiempo de respuesta de la red) que podría reducirse a cinco milisegundos, lo cual permitirá la conexión prácticamente en tiempo real.
             p Esta nueva red será transformadora para los dispositivos que impulsan procesos industriales automatizados. Su alta confiabilidad y baja latencia alimentará los sensores en las máquinas industriales de forma más eficiente que nunca.
             p El alto ancho de banda y la densidad de conexión aseguran la conectividad ubicua. Por estos motivos, ayudará a generar una gran cantidad de datos que abrirán nuevas vías de ahorro de costos y eficiencia cuando se combinen con el aprendizaje automático.

@@ -122,7 +122,7 @@ export default {
       referencia:
         'FAO. (s.f.). 4.<em> Costos de producción.</em>  https://www.fao.org/3/v8490s/v8490s06.htm',
       tipo: 'Documento',
-      descarga: 'https://www.fao.org/3/v8490s/v8490s06.htm',
+      link: 'https://www.fao.org/3/v8490s/v8490s06.htm',
     },
     {
       tema: 'Fundamentos para la creación de un sistema productivo',
@@ -137,7 +137,7 @@ export default {
       referencia:
         'Resolución 0829 de 2015. (Ministerio de Salud y Protección Social). Por la cual se definen las condiciones técnicas para la destinación de los recursos del proyecto “Fortalecimiento de la capacidad instalada asociada a la prestación de servicios de salud en infraestructura y dotación hospitalaria nacional”. Marzo 18 de 2015.',
       tipo: 'PDF',
-      descarga:
+      link:
         'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/DIJ/resolucion-0829-de-2015.pdf',
     },
   ],
@@ -201,6 +201,11 @@ export default {
       termino: 'Trabajo en equipo',
       significado:
         'labor en la que todos los miembros están comprometidos para alcanzar las metas y los objetivos propuestos, al apoyarse unos a otros, alineados y trabajando en un mismo propósito.',
+    },
+    {
+      termino: 'Suministros',
+      significado:
+        'involucra todas las operaciones en una empresa que son indispensables para que un producto llegue al consumidor final eficientemente. Dentro del funcionamiento de una empresa, la cadena de suministro es más que la preparación y distribución de un producto para su venta',
     },
   ],
   referencias: [

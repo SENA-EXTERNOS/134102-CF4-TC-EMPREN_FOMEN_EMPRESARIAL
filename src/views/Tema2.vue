@@ -9,7 +9,7 @@
 
     p.mb-5 Como su nombre lo indica, la estructura de costos debe incluir todos los costos necesarios para que la empresa funcione y pueda cumplir con sus propuestas al cliente. Se debe tener en cuenta, entre otros: 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-8
+      .col-lg-8.fnd-18.p-5
         .row.justify-content-center
           .col-lg-6
 
@@ -116,7 +116,7 @@
     .row.justify-content-center.mb-5
       .col-lg-10
         .cajon.color-primario.p-4.mb-4.fnd-6 
-          p Para la implementación de un sistema productivo, es de suma importancia tener en cuenta la infraestructura de la tecnología de la información (TI), porque esta hace referencia a los elementos necesarios para operar y gestionar entornos de TI empresariales. La infraestructura de TI puede implementarse en un sistema de cloud computing o en las instalaciones de la empresa.
+          p Para la implementación de un sistema productivo, es de suma importancia tener en cuenta la infraestructura de la tecnología de la información (TI), porque esta hace referencia a los elementos necesarios para operar y gestionar entornos de TI empresariales. La infraestructura de TI puede implementarse en un sistema de <em>cloud computing</em> o en las instalaciones de la empresa.
 
     p.mb-5 Lo invitamos a ver el siguiente video, donde se amplía la temática sobre el sistema productivo.
 

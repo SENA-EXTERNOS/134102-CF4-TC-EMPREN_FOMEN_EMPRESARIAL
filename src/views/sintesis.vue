@@ -3,18 +3,9 @@
     BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
     .container.tarjeta.tarjeta--blanca.p-4.p-md-5
   
-      .row.justify-content-center 
-        .col-lg-12
-          .row   
-            .col-lg-8   
-              .titulo-sexto.color-acento-contenido.nar
-                h3 Gestión del desarrollo administrativo e innovación
-                p.mb-0 Síntesis: Introducción a la administración
-            .col-lg-4
-                figure.mb-5
-                  img.img-86(src='@/assets/curso/temas/logo-sena.svg')              
+          
       
-      p.mb-5 Para dar cierre a este componente formativo, lo invitamos a dar un recorrido por las temáticas aquí abordadas.
+      p.mb-5 El siguiente mapa conceptual integra los criterios y especificidades de los conocimientos expuestos en este componente formativo.
       .row.justify-content-center
         .col-lg-10.mb-5
           figure
