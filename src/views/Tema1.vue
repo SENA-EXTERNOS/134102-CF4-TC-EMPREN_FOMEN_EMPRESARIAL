@@ -550,7 +550,7 @@
             p Esta tecnología, cada vez más transformadora, permite que cualquiera pueda configurar un<em> software</em> informático que haga posible que un “robot” emule e integre las acciones de una interacción humana en sistemas digitales, para ejecutar un proceso industrial o comercial.
             p La RPA actúa como sistema disruptivo y sofisticado, que lleva el tradicional sistema ERP -<em> Enterprise Resource Planning </em>a otro nivel, dotándolo de <em>machine learning </em>para aprovechar al máximo la automatización que posibilita.
             p La RPA, además, permite automatizar una fracción del costo y del tiempo que se invertía antes; esta tecnología no es de naturaleza intrusiva y saca partido a la infraestructura existente sin provocar interrupciones en los sistemas subyacentes, cuya sustitución sería muy compleja y costosa.
-            p La RPA multiplica la eficiencia de cualquier proceso de alto volumen dirigido por reglas de negocio, porque se genera una lista de órdenes, la cual es ejecutada automáticamente por un robot de software, liberando a los empleados para que se concentren en tareas que aporten valor real a la empresa.
+            p La RPA multiplica la eficiencia de cualquier proceso de alto volumen dirigido por reglas de negocio, porque se genera una lista de órdenes, la cual es ejecutada automáticamente por un robot de <em> software</em>, liberando a los empleados para que se concentren en tareas que aporten valor real a la empresa.
 
           .col-md-4.mb-4.mb-md-0
             figure
